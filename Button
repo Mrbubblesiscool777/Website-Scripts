@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Button Example</title>
+	<style>
+		/* Custom font */
+		@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+		
+		/* Button styles */
+		.button {
+			display: inline-block;
+			padding: 10px 20px;
+			background-color: #007bff;
+			color: #fff;
+			border-radius: 5px;
+			font-family: 'Roboto', sans-serif;
+			font-size: 16px;
+			text-decoration: none;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<!-- Button with custom font -->
+	<a href="newpage.html" class="button">Go to New Page</a>
+</body>
+</html>
