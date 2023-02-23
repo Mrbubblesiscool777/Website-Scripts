@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Placeholder Example</title>
+	<style>
+		/* Placeholder styles */
+		.placeholder {
+			width: 300px;
+			height: 200px;
+			background-color: #ddd;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 24px;
+			font-weight: bold;
+			color: #aaa;
+		}
+	</style>
+</head>
+<body>
+	<!-- Image placeholder -->
+	<div class="placeholder">
+		No Image Available
+	</div>
+</body>
+</html>
