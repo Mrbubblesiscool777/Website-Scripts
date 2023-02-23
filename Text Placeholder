@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Text Placeholder Example</title>
+	<style>
+		/* Placeholder styles */
+		.placeholder {
+			width: 300px;
+			height: 100px;
+			background-color: #ddd;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 24px;
+			font-weight: bold;
+			color: #aaa;
+		}
+	</style>
+</head>
+<body>
+	<!-- Text placeholder -->
+	<div class="placeholder">
+		No Text Available
+	</div>
+</body>
+</html>
