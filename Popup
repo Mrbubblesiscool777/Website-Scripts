@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Popup Example</title>
+	<script>
+		function openPopup() {
+			window.open("https://www.example.com", "Popup", "width=500,height=500");
+		}
+	</script>
+</head>
+<body>
+	<button onclick="openPopup()">Open Popup</button>
+</body>
+</html>
